@@ -1,0 +1,4 @@
+colors
+--primary: #569aff;
+--secondery: #376ec2;
+--tirtiary: #032f70
